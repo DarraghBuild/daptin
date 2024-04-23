@@ -4,7 +4,7 @@
 
 | Deployment preference      | Getting started                                                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Heroku                     | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/daptin/daptin) |
+| Heroku                     |Build.io |
 | Docker                     | docker run -p 8080:8080 [daptin/daptin](https://hub.docker.com/r/daptin/daptin)                                               |
 | Kubernetes                 | [Service & Deployment YAML](#kubernetes)                                                                                      |
 | Development                | go get github.com/daptin/daptin                                                                                               |
